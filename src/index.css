@@ -1,0 +1,7 @@
+div {
+  width: 500px;
+  height: 500px;
+  background-image: url(./doTHeMove.gif);
+  color: white;
+  font-size: 100px;
+}
